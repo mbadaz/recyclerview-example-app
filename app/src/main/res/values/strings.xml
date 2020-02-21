@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">RecyclerView App</string>
+
+    <string-array name="names" >
+        <item>John</item>
+        <item>Jacob</item>
+        <item>Mary</item>
+        <item>Lusanda</item>
+        <item>Mandisa</item>
+        <item>Unathi</item>
+        <item>Miriam</item>
+        <item>Jane</item>
+        <item>Mongezi</item>
+        <item>Thuleka</item>
+        <item>Thandi</item>
+        <item>Nelson</item>
+        <item>Jake</item>
+        <item>Melisa</item>
+        <item>Malcom</item>
+        <item>Mthulisi</item>
+        <item>Ayanda</item>
+
+    </string-array>
+
+    <string-array name="sex" >
+        <item>M</item>
+        <item>M</item>
+        <item>F</item>
+        <item>F</item>
+        <item>F</item>
+        <item>F</item>
+        <item>F</item>
+        <item>F</item>
+        <item>M</item>
+        <item>F</item>
+        <item>F</item>
+        <item>M</item>
+        <item>M</item>
+        <item>F</item>
+        <item>F</item>
+        <item>M</item>
+        <item>M</item>
+    </string-array>
+
+    <string-array name="age" >
+        <item>23</item>
+        <item>45</item>
+        <item>12</item>
+        <item>29</item>
+        <item>16</item>
+        <item>60</item>
+        <item>23</item>
+        <item>8</item>
+        <item>23</item>
+        <item>34</item>
+        <item>57</item>
+        <item>43</item>
+        <item>58</item>
+        <item>17</item>
+        <item>21</item>
+        <item>32</item>
+        <item>25</item>
+    </string-array>
+
+</resources>
